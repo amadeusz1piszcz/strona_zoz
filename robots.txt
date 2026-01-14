@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://amadeusz1piszcz.github.io/strona_zoz/sitemap.xml

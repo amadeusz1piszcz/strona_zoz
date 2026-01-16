@@ -3,10 +3,53 @@
     <title>Dokumentacja Medyczna Akredytacja 2025</title>
     <link href="https://amadeusz1piszcz.github.io/strona_zoz/feed.xml" rel="self" />
     <link href="https://amadeusz1piszcz.github.io/strona_zoz" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-01-16T14:26:22+01:00</updated>
     <author>
         <name>Amadeusz Piszcz</name>
     </author>
     <id>https://amadeusz1piszcz.github.io/strona_zoz</id>
 
+    <entry>
+        <title>STANDARD BP 3</title>
+        <author>
+            <name>Amadeusz Piszcz</name>
+        </author>
+        <link href="https://amadeusz1piszcz.github.io/strona_zoz/standard-bp-3/"/>
+        <id>https://amadeusz1piszcz.github.io/strona_zoz/standard-bp-3/</id>
+        <media:content url="https://amadeusz1piszcz.github.io/strona_zoz/media/posts/89/okk.png" medium="image" />
+
+        <updated>2026-01-16T14:26:22+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://amadeusz1piszcz.github.io/strona_zoz/media/posts/89/okk.png" alt="" />
+                    Treść: „Szpital minimalizuje ryzyko wykonywanych zabiegów.” Cel dokumentacyjny: Eliminacja błędów krytycznych (niewłaściwy pacjent, niewłaściwa strona, niewłaściwy zabieg) poprzez ustandaryzowaną kontrolę w kluczowych momentach procedury. Struktura Karty (Checklista) - wg wzoru CMJ : Autoryzacja: Podsumowanie: Dokumentacja w standardzie BP 3 (Checklista) jest dokumentem o najwyższym znaczeniu&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://amadeusz1piszcz.github.io/strona_zoz/media/posts/89/okk.png" class="type:primaryImage" alt="" /></p>
+                <p><strong>Treść:</strong><span style="font-weight: 400;"> „Szpital minimalizuje ryzyko wykonywanych zabiegów.”</span></p>
+<p><strong>Cel dokumentacyjny:</strong><span style="font-weight: 400;"> Eliminacja błędów krytycznych (niewłaściwy pacjent, niewłaściwa strona, niewłaściwy zabieg) poprzez ustandaryzowaną kontrolę w kluczowych momentach procedury.</span></p>
+<h3><strong>Wymagania dla Okołooperacyjnej Karty Kontrolnej (BP 3)</strong></h3>
+<p><strong>Struktura Karty (Checklista) - wg wzoru CMJ : </strong></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Dokument musi być integralną częścią historii choroby każdego pacjenta poddawanego zabiegowi operacyjnemu.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Musi być podzielona na trzy etapy czasowe:</span>
+<ol>
+<li style="font-weight: 400;" aria-level="2"><strong>Przed znieczuleniem:</strong><span style="font-weight: 400;"> Potwierdzenie tożsamości, zgody na zabieg, oznaczenia miejsca operowanego, wywiadu alergicznego i ryzyka trudnych dróg oddechowych.</span></li>
+<li style="font-weight: 400;" aria-level="2"><strong>Przed nacięciem skóry:</strong><span style="font-weight: 400;"> Ostateczne potwierdzenie przez cały zespół (operator, anestezjolog, pielęgniarki) właściwego pacjenta, procedury i miejsca. Potwierdzenie podania profilaktyki antybiotykowej (czas).</span></li>
+<li style="font-weight: 400;" aria-level="2"><strong>Przed opuszczeniem bloku operacyjnego:</strong><span style="font-weight: 400;"> Potwierdzenie zgodności materiału i narzędzi (liczenie gazików/narzędzi), oznaczenie próbek do badań.</span></li>
+</ol>
+</li>
+</ul>
+<p><strong>Autoryzacja:</strong></p>
+<ul>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Każda część checklisty musi być „odhaczona” w czasie rzeczywistym (a nie uzupełniona po zabiegu).</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Wpisy w okołooperacyjnej karcie kontrolnej są dokonywane przez koordynatora karty, którym jest osoba określona w regulaminie organizacyjnym podmiotu leczniczego.</span></li>
+<li style="font-weight: 400;" aria-level="1"><span style="font-weight: 400;">Koordynator karty dokonuje wpisów w okołooperacyjnej karcie kontrolnej na podstawie informacji udzielanych przez członków zespołu operacyjnego, zgodnie z zakresem ich zadań podczas operacji.</span></li>
+</ul>
+<p><strong>Podsumowanie:</strong><span style="font-weight: 400;"> Dokumentacja w standardzie BP 3 (Checklista) jest dokumentem o najwyższym znaczeniu prawnym w chirurgii. Musi ona dowodzić, że zespół zatrzymał się i zweryfikował bezpieczeństwo pacjenta przed wykonaniem nieodwracalnych czynności. Braki w podpisach, brak zaznaczenia podania antybiotyku lub wypełnienie karty „hurtem” po zabiegu traktowane są jako rażące naruszenie standardu bezpieczeństwa.</span></p>
+            ]]>
+        </content>
+    </entry>
 </feed>

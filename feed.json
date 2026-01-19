@@ -9,20 +9,5 @@
         "name": "Amadeusz Piszcz"
     },
     "items": [
-        {
-            "id": "https://amadeusz1piszcz.github.io/strona_zoz/standard-bp-3/",
-            "url": "https://amadeusz1piszcz.github.io/strona_zoz/standard-bp-3/",
-            "title": "STANDARD BP 3",
-            "summary": "Treść: „Szpital minimalizuje ryzyko wykonywanych zabiegów.” Cel dokumentacyjny: Eliminacja błędów krytycznych (niewłaściwy pacjent, niewłaściwa strona, niewłaściwy zabieg) poprzez ustandaryzowaną kontrolę w kluczowych momentach procedury. Struktura Karty (Checklista) - wg wzoru CMJ : Autoryzacja: Podsumowanie: Dokumentacja w standardzie BP 3 (Checklista) jest dokumentem o najwyższym znaczeniu&hellip;",
-            "content_html": "<p><strong>Treść:</strong><span style=\"font-weight: 400;\"> „Szpital minimalizuje ryzyko wykonywanych zabiegów.”</span></p>\n<p><strong>Cel dokumentacyjny:</strong><span style=\"font-weight: 400;\"> Eliminacja błędów krytycznych (niewłaściwy pacjent, niewłaściwa strona, niewłaściwy zabieg) poprzez ustandaryzowaną kontrolę w kluczowych momentach procedury.</span></p>\n<h3><strong>Wymagania dla Okołooperacyjnej Karty Kontrolnej (BP 3)</strong></h3>\n<p><strong>Struktura Karty (Checklista) - wg wzoru CMJ : </strong></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Dokument musi być integralną częścią historii choroby każdego pacjenta poddawanego zabiegowi operacyjnemu.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Musi być podzielona na trzy etapy czasowe:</span>\n<ol>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><strong>Przed znieczuleniem:</strong><span style=\"font-weight: 400;\"> Potwierdzenie tożsamości, zgody na zabieg, oznaczenia miejsca operowanego, wywiadu alergicznego i ryzyka trudnych dróg oddechowych.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><strong>Przed nacięciem skóry:</strong><span style=\"font-weight: 400;\"> Ostateczne potwierdzenie przez cały zespół (operator, anestezjolog, pielęgniarki) właściwego pacjenta, procedury i miejsca. Potwierdzenie podania profilaktyki antybiotykowej (czas).</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"2\"><strong>Przed opuszczeniem bloku operacyjnego:</strong><span style=\"font-weight: 400;\"> Potwierdzenie zgodności materiału i narzędzi (liczenie gazików/narzędzi), oznaczenie próbek do badań.</span></li>\n</ol>\n</li>\n</ul>\n<p><strong>Autoryzacja:</strong></p>\n<ul>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Każda część checklisty musi być „odhaczona” w czasie rzeczywistym (a nie uzupełniona po zabiegu).</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Wpisy w okołooperacyjnej karcie kontrolnej są dokonywane przez koordynatora karty, którym jest osoba określona w regulaminie organizacyjnym podmiotu leczniczego.</span></li>\n<li style=\"font-weight: 400;\" aria-level=\"1\"><span style=\"font-weight: 400;\">Koordynator karty dokonuje wpisów w okołooperacyjnej karcie kontrolnej na podstawie informacji udzielanych przez członków zespołu operacyjnego, zgodnie z zakresem ich zadań podczas operacji.</span></li>\n</ul>\n<p><strong>Podsumowanie:</strong><span style=\"font-weight: 400;\"> Dokumentacja w standardzie BP 3 (Checklista) jest dokumentem o najwyższym znaczeniu prawnym w chirurgii. Musi ona dowodzić, że zespół zatrzymał się i zweryfikował bezpieczeństwo pacjenta przed wykonaniem nieodwracalnych czynności. Braki w podpisach, brak zaznaczenia podania antybiotyku lub wypełnienie karty „hurtem” po zabiegu traktowane są jako rażące naruszenie standardu bezpieczeństwa.</span></p>",
-            "image": "https://amadeusz1piszcz.github.io/strona_zoz/media/posts/89/okk.png",
-            "author": {
-                "name": "Amadeusz Piszcz"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-01-16T14:26:22+01:00",
-            "date_modified": "2026-01-16T14:26:22+01:00"
-        }
     ]
 }

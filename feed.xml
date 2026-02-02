@@ -3,10 +3,22 @@
     <title>Dokumentacja Medyczna Akredytacja 2025</title>
     <link href="https://amadeusz1piszcz.github.io/strona_zoz/feed.xml" rel="self" />
     <link href="https://amadeusz1piszcz.github.io/strona_zoz" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-02-02T13:32:53+01:00</updated>
     <author>
         <name>Amadeusz Piszcz</name>
     </author>
     <id>https://amadeusz1piszcz.github.io/strona_zoz</id>
 
+    <entry>
+        <title>Ścieżka Neurologiczna</title>
+        <author>
+            <name>Amadeusz Piszcz</name>
+        </author>
+        <link href="https://amadeusz1piszcz.github.io/strona_zoz/sciezka-neurologiczna/"/>
+        <id>https://amadeusz1piszcz.github.io/strona_zoz/sciezka-neurologiczna/</id>
+
+        <updated>2026-02-02T13:32:53+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>

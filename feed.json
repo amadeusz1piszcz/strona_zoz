@@ -9,17 +9,5 @@
         "name": "Amadeusz Piszcz"
     },
     "items": [
-        {
-            "id": "https://amadeusz1piszcz.github.io/strona_zoz/sciezka-neurologiczna/",
-            "url": "https://amadeusz1piszcz.github.io/strona_zoz/sciezka-neurologiczna/",
-            "title": "Ścieżka Neurologiczna",
-            "author": {
-                "name": "Amadeusz Piszcz"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-02-02T13:32:53+01:00",
-            "date_modified": "2026-02-02T13:32:53+01:00"
-        }
     ]
 }
